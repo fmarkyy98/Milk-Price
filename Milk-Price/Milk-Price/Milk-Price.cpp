@@ -28,6 +28,6 @@ int main()
 		}
 	}
 
-	cout << Count;
+	cout << Count << endl;
 	return 0;
 }
